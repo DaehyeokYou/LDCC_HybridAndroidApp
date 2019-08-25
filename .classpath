@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="platforms/android/cordova/node_modules/properties-parser/test"/>
+	<classpathentry kind="src" path="platforms/android/CordovaLib/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="platforms/android/CordovaLib/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="platforms/android/CordovaLib/build/generated/source/buildConfig/release"/>
+	<classpathentry kind="src" path="platforms/android/CordovaLib/src"/>
+	<classpathentry kind="src" path="platforms/android/src"/>
+	<classpathentry kind="lib" path="platforms/android/CordovaLib/bin/cordovalib.jar"/>
+	<classpathentry kind="lib" path="platforms/android/CordovaLib/build/intermediates/bundles/debug/classes.jar"/>
+	<classpathentry kind="lib" path="platforms/android/CordovaLib/build/intermediates/bundles/release/classes.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="platforms/android/CordovaLib/bin/classes"/>
+</classpath>
